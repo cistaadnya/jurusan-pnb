@@ -1,2 +1,2 @@
 # jurusan-pnb
-Jurusan yang ada di Politeknik Negeri Bali
+Jurusan beserta program studi yang ada di Politeknik Negeri Bali
